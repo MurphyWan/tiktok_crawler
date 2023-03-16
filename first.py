@@ -1,3 +1,9 @@
+```
+请注意，要使此程序正常工作，需要替换代码中的“你的应用程序ID”、“你的应用程序密钥”和“用户ID”字符串，分别为TikTok应用程序的ID、密钥和要获取直播数据的用户的ID。
+
+此外，您还需要确保已经按照TikTok的API文档中的说明，正确地设置了您的应用程序，并在应用程序中注册了访问令牌。
+```
+
 import requests
 import json
 
@@ -41,3 +47,5 @@ if __name__ == '__main__':
     user_id = '用户ID'
     # 获取直播数据
     get_live_data(user_id, access_token)
+    
+
