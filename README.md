@@ -1,1 +1,1 @@
-# tiktok_crawler is a crawler programmer for getting data from tiktok via its offical api
+# tiktok_crawler is a crawler program for getting data from tiktok via its offical api
